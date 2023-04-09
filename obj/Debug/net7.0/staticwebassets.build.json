@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PNp9JelMJXbzNEf+Tuum6U0qvCfInxf94FuSTAqOUuI=",
+  "Source": "GetPost-WebAPI",
+  "BasePath": "_content/GetPost-WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
